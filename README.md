@@ -6,4 +6,4 @@
 -  **Mapa de Karnaugh-Veitch, riesgo estático y dinámico:** https://youtu.be/XkA5CCj0ehw
 -  **Familias Lógicas:** https://youtu.be/H5Sk8Fnvgbk
 -  **Códigos:** https://youtu.be/JyA_5hPu0SM
--  **Decodificadores y multiplexores:** 
+-  **Decodificadores y multiplexores:** https://youtu.be/bIbT9YmhaR4

@@ -7,3 +7,4 @@
 -  **Familias Lógicas:** https://youtu.be/H5Sk8Fnvgbk
 -  **Códigos:** https://youtu.be/JyA_5hPu0SM
 -  **Decodificadores y multiplexores:** https://youtu.be/bIbT9YmhaR4
+-  **ALU:** https://youtu.be/U8iFp5hERCk

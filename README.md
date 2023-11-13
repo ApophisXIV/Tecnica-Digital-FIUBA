@@ -9,3 +9,4 @@
 -  **Decodificadores y multiplexores:** https://youtu.be/bIbT9YmhaR4
 -  **ALU:** https://youtu.be/U8iFp5hERCk
 -  **Memorias y PLD:** https://youtu.be/Dwlh7YiZQC0
+-  **Flip flops:** https://youtu.be/acWT4jjZDCA

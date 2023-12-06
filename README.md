@@ -10,3 +10,5 @@
 -  **ALU:** https://youtu.be/U8iFp5hERCk
 -  **Memorias y PLD:** https://youtu.be/Dwlh7YiZQC0
 -  **Flip flops:** https://youtu.be/acWT4jjZDCA
+-  **Circuitos secuenciales contadores - Parte 1:**  https://youtu.be/d4AY_MWYXpM
+-  **Circuitos secuenciales contadores - Parte 2:**  https://youtu.be/5ayoifZcsEM
